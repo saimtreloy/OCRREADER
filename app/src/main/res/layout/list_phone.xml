@@ -9,5 +9,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtListPhone"
         android:padding="16dp"
+        android:gravity="center_vertical"
+        android:drawableLeft="@drawable/ic_phone"
         android:text="Saim Khan"/>
 </LinearLayout>
